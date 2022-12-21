@@ -1,0 +1,34 @@
+{
+  "name": "romanian-bank-holidays-vercel",
+  "version": "1.0.0",
+  "description": "romanian bank holidays using vercel serverless functions",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciprian-chichirita/romanian-bank-holidays-vercel.git"
+  },
+  "keywords": [
+    "romanian",
+    "bank",
+    "holidays",
+    "verlce",
+    "serverless",
+    "functions"
+  ],
+  "author": "ciprian chichirita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciprian-chichirita/romanian-bank-holidays-vercel/issues"
+  },
+  "homepage": "https://github.com/ciprian-chichirita/romanian-bank-holidays-vercel#readme",
+  "devDependencies": {
+    "vercel": "^28.9.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
