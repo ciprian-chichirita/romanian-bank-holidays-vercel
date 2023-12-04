@@ -8,4 +8,7 @@ romanian bank holidays API using vercel serverless functions
 
 where `year` is a query parameter, if it is empty or not sent, it will use the current year of the server.
 
-### for local development, after you run `npm start` go to: `http://localhost:3000/api?year=` to see the output
+### for local development
+
+- run `npm start`
+- go to: `http://localhost:3000/api?year=` to see the output
