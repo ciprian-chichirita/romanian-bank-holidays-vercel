@@ -43,6 +43,15 @@ const legalBankHolidays = (year) => {
       date: `02/01/${year}`,
     },
     {
+      name: "Boboteaza",
+      date: `06/01/${year}`,
+    },
+    {
+      name: "Sfantul Ioan Botezatorul",
+      date: `07/01/${year}`,
+    },
+
+    {
       name: "Ziua Unirii Principatelor Române",
       date: `24/01/${year}`,
     },

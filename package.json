@@ -26,9 +26,10 @@
   },
   "homepage": "https://github.com/ciprian-chichirita/romanian-bank-holidays-vercel#readme",
   "devDependencies": {
-    "vercel": "^28.9.0"
+    "vercel": "^32.3.0"
   },
   "dependencies": {
+    "@types/node": "^20.10.3",
     "moment": "^2.29.4"
   }
 }
